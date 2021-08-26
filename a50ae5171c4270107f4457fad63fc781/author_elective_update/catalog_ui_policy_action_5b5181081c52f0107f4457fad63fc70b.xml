@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Loaner Request">4df994881cdeb0107f4457fad63fc72f</catalog_item>
+        <catalog_variable>IO:9df990c81cdeb0107f4457fad63fc722</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-26 00:39:11</sys_created_on>
+        <sys_id>5b5181081c52f0107f4457fad63fc70b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a50ae5171c4270107f4457fad63fc781</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a50ae5171c4270107f4457fad63fc781</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_5b5181081c52f0107f4457fad63fc70b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-26 00:39:11</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only show Other field if Depot value is Other">9b118dc41c52f0107f4457fad63fc76d</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">a50ae5171c4270107f4457fad63fc781</application>
+        <file_path/>
+        <instance_id>7d41fbb61b4a341064e9beef034bcbb1</instance_id>
+        <instance_name>adf-aug-705-dev-008</instance_name>
+        <name>catalog_ui_policy_action_5b5181081c52f0107f4457fad63fc70b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Loaner Request">4df994881cdeb0107f4457fad63fc72f</catalog_item><catalog_variable>IO:9df990c81cdeb0107f4457fad63fc722</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 00:39:11</sys_created_on><sys_id>5b5181081c52f0107f4457fad63fc70b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>other</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a50ae5171c4270107f4457fad63fc781</sys_package><sys_policy/><sys_scope display_value="Loaner Request">a50ae5171c4270107f4457fad63fc781</sys_scope><sys_update_name>catalog_ui_policy_action_5b5181081c52f0107f4457fad63fc70b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 00:39:11</sys_updated_on><table/><ui_policy display_value="Only show Other field if Depot value is Other">9b118dc41c52f0107f4457fad63fc76d</ui_policy><variable>other</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1438185905</payload_hash>
+        <record_name>other</record_name>
+        <reverted_from/>
+        <source>264fba271c02b0107f4457fad63fc71a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-26 00:39:12</sys_created_on>
+        <sys_id>a571c1081c52f0107f4457fad63fc749</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b7fe57fd40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-26 00:39:12</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>ed71c1084852f010849b0b40037e0548</update_guid>
+        <update_guid_history>ed71c1084852f010849b0b40037e0548:1438185905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="other">e99205481c52f0107f4457fad63fc794</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-26 00:44:06</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>adda5396996e48f68951081fd5b8bac4</sys_id>
+        <sys_metadata>5b5181081c52f0107f4457fad63fc70b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a50ae5171c4270107f4457fad63fc781</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a50ae5171c4270107f4457fad63fc781</sys_scope>
+        <sys_scope_delete display_value="">0442ac9cea4644cc804281458d38bc84</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_5b5181081c52f0107f4457fad63fc70b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_5b5181081c52f0107f4457fad63fc70b">a571c1081c52f0107f4457fad63fc749</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-26 00:44:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
